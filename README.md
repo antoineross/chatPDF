@@ -35,10 +35,6 @@ To get started with this project, run
 and copy the .env.example variables into a separate .env file, fill them out & and that's all you need to get started!
 
 
-## Acknowledgements
-
-- [Kinde Auth](https://link.joshtriedcoding.com/kinde) for making this project possible
-
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
